@@ -1,4 +1,4 @@
-# packer_ubuntu
+# packer_nginx64
 This repo is containing code that can deploy a virtual machine image with nginx created by packer.
 
 # What is this repo for
